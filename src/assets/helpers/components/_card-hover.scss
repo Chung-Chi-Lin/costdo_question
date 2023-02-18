@@ -1,0 +1,21 @@
+.card-shadow-h{
+	position: relative;
+	&:hover {
+		box-shadow: 5px 10px 20px #a1a1a1;
+		.card-pic-h{
+			display: block;
+		}
+		.text {
+			color: $warning;
+		}
+	}
+}
+
+.card-pic-h{
+	position: absolute;
+	display: none;
+}
+// productCard
+.card-bg {
+	background-image: url(https://images.unsplash.com/photo-1615800098779-1be32e60cca3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=820&q=80);
+}

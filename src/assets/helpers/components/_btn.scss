@@ -1,0 +1,21 @@
+// 浮起
+.btn-h {
+    &:hover {
+    transform: translateY(-8px);
+    }
+}
+.card-h {
+    &:hover {
+    transform: translateY(-12px);
+    font-weight: bolder;
+    transition:0.4s ease-in;
+    }
+}
+.shadow-y {
+    box-shadow: 0 0 20px #9f6f00;
+}
+.pCard-h{
+    &:hover{
+        background-color: #9f6f00;
+    }
+}
