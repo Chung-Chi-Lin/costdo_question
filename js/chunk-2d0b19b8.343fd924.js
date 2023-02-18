@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b19b8"],{2125:function(n,e,c){"use strict";c.r(e);var r=c("7a23");function t(n,e){return Object(r["r"])(),Object(r["e"])("h1",null,"門市資訊")}var u=c("6b0d"),b=c.n(u);const o={},a=b()(o,[["render",t]]);e["default"]=a}}]);
+//# sourceMappingURL=chunk-2d0b19b8.343fd924.js.map
